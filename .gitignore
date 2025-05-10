@@ -1,0 +1,45 @@
+*.sfc
+*.smc
+*.sym
+
+labels.txt
+log.txt
+
+tools/64tass/syntax/
+tools/64tass/*.exe
+tools/64tass/*.0
+tools/64tass/*.1
+tools/64tass/*.pdf
+tools/64tass/*.html
+
+tools/BSNES Max/bsxdat/
+tools/BSNES Max/platforms/
+tools/BSNES Max/Saves/
+tools/BSNES Max/styles/
+tools/BSNES Max/*.exe
+tools/BSNES Max/*.txt
+tools/BSNES Max/*.dll
+
+tools/IpsAndSum/*.exe
+
+tools/Lunar Address/*.exe
+
+tools/FLIPS/*.exe
+
+tools/SnesGFX/*.exe
+tools/SnesGFX/*.txt
+tools/SnesGFX/*.config
+
+tools/Usenti/*.txt
+tools/Usenti/*.exe
+tools/Usenti/*.chm
+tools/Usenti/*.pal
+
+tools/YY-CHR/yychr.dat
+tools/YY-CHR/*.adf
+tools/YY-CHR/*.chr
+tools/YY-CHR/*.enu
+tools/YY-CHR/*.exe
+tools/YY-CHR/*.fra
+tools/YY-CHR/*.ini
+tools/YY-CHR/*.pal
