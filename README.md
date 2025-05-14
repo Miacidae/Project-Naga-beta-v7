@@ -8,7 +8,7 @@ If BookOfHolsety, DDS, or any other member of the Project Naga team wishes to re
 You may also use it for modding projects if you so wish, although there are not as many integrations as in the Lil' Nordion folder, which was intended for modding the game on the long-term.
 If you intend to use this as a base for modding nonetheless, you'll need to import documentation and modding files from Lil' Nordion's repo.
 
-Finally, do note that this repository is a snapshot more than it is an ongoing project. Expect few updates, if any.
+Finally, do note that this repository is a snapshot more than it is an ongoing project. Expect few commits, if any.
 
 -----------------
 Setup

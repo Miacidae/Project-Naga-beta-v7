@@ -9,7 +9,7 @@ dialogueCh8WM1
 	.byte WaitForA
 	
 	.word HighlightCountry
-	.word NorthThracia
+	.byte NorthThracia
 
 	.byte ScrollText
 
@@ -27,7 +27,7 @@ dialogueCh8WM2
 
 	.byte StartText
 	.word HighlightCountry
-	.word SouthThracia
+	.byte SouthThracia
 .text	"while the south, the Kingdom of Thracia, is a"
 	.byte NewLine
 .text	"harsh wasteland dominated by vast mountains."
