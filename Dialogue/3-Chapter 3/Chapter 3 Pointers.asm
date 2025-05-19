@@ -451,7 +451,14 @@
 * = $1D8C2C
 .logical $1D8C2C
 
-.long dialogueCh3KillPapilion
+.long dialogueCh3KillPapilion_Or_SeizeSilvail		;	Kill Papilion
+
+.here
+
+* = $1D8C7F
+.logical $1D8C7F
+
+.long dialogueCh3KillPapilion_Or_SeizeSilvail		;	Seize Silvail with Papilion still alive
 
 .here
 
